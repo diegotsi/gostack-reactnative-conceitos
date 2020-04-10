@@ -1,12 +1,12 @@
-# GoStack - Challenge 01 - React JS
+# GoStack - Challenge 01 - React Native
 
-This project provide a client to get repos, add repo, and delete repo
+This project provide a mobile client to get repos and add like to tepo
 
 ### Running
 
 `yarn`
 
-`yarn start`
+`yarn ios`
 
 ### Running tests
 
